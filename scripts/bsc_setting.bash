@@ -1,0 +1,2 @@
+#!/bin/bash
+brownie networks add "Binance Smart Chain" bsc_test_moralis host='https://speedy-nodes-nyc.moralis.io/6bfe18c10bddcfe00f9a2ede/bsc/testnet' name="Testnet (Moralis)" chainid=97 explorer='https://api-testnet.bscscan.com/api'

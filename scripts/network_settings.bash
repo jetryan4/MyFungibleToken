@@ -1,0 +1,2 @@
+#!/bin/bash
+brownie networks add Ethereum ropsten_test host='https://speedy-nodes-nyc.moralis.io/6bfe18c10bddcfe00f9a2ede/eth/ropsten' chainid=3 explorer='https://api-ropsten.etherscan.io/api' name='Ropesten (Moralis)'
